@@ -7,7 +7,7 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.8-3178C6?style=flat&logo=typescript)](https://www.typescriptlang.org)
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-v4-38B2AC?style=flat&logo=tailwind-css)](https://tailwindcss.com)
 [![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?style=flat&logo=docker)](https://www.docker.com)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](LICENSE)
 
 **KinBooks**는 홈서버, NAS(Synology, QNAP), 라즈베리 파이 또는 저사양 VPS에서도 메모리 30MB 내외로 가볍고 안정적으로 동작하는 **로컬 퍼스트(Local-First) 가족 & 개인 협업 가계부**입니다.
 
@@ -175,5 +175,5 @@ kinbooks/
 
 ## 📄 라이선스 (License)
 
-이 프로젝트는 [MIT License](LICENSE)에 따라 배포됩니다.
-자유롭게 수정, 배포 및 자체 호스팅 환경에서 사용하실 수 있습니다.
+이 프로젝트는 [GNU Affero General Public License v3.0 (AGPL-3.0)](LICENSE)에 따라 배포됩니다.
+자유롭게 사용 및 수정하여 자체 호스팅(Self-hosting)할 수 있으며, 네트워크 서비스를 통해 수정본을 제공하는 경우 해당 소스코드를 오픈소스로 공개해야 합니다.
