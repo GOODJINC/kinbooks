@@ -1,0 +1,28 @@
+# Binaries and build artifacts
+bin/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+dist/
+
+# SQLite Database & Data
+data/
+*.db
+*.db-wal
+*.db-shm
+
+# Node & Frontend
+node_modules/
+web/node_modules/
+web/dist/
+web/.vite/
+
+# IDE & OS
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+test_api.ps1
